@@ -8,7 +8,7 @@ import routes, { renderRoutes } from './routes';
 const App = () => {
   return (
     <React.Fragment>
-      <BrowserRouter basename={process.env.REACT_APP_BASE_NAME}>{renderRoutes(routes)}</BrowserRouter>
+      <BrowserRouter basename="/">{renderRoutes(routes)}</BrowserRouter>
     </React.Fragment>
   );
 };
