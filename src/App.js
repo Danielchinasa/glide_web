@@ -8,7 +8,7 @@ import routes, { renderRoutes } from './routes';
 const App = () => {
   return (
     <React.Fragment>
-      <HashRouter>{renderRoutes(routes)}</HashRouter>
+      <HashRouter basename="/">{renderRoutes(routes)}</HashRouter>
     </React.Fragment>
   );
 };
