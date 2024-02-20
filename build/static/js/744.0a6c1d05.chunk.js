@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatta_able_free_react_admin_template=self.webpackChunkdatta_able_free_react_admin_template||[]).push([[744],{4744:function(e,a,t){t.r(a);var n=t(47313),r=t(46417);a.default=function(){return(0,r.jsx)(n.Fragment,{})}}}]);
