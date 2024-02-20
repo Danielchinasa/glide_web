@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://codedthemes.com/demos/admin-templates/datta-able/react/free/static/css/main.e82dda6f.css",
-    "main.js": "https://codedthemes.com/demos/admin-templates/datta-able/react/free/static/js/main.7b3ab738.js",
+    "main.js": "https://codedthemes.com/demos/admin-templates/datta-able/react/free/static/js/main.694681d9.js",
     "static/js/488.677cff37.chunk.js": "https://codedthemes.com/demos/admin-templates/datta-able/react/free/static/js/488.677cff37.chunk.js",
     "static/js/619.b492846b.chunk.js": "https://codedthemes.com/demos/admin-templates/datta-able/react/free/static/js/619.b492846b.chunk.js",
     "static/js/776.aec74e21.chunk.js": "https://codedthemes.com/demos/admin-templates/datta-able/react/free/static/js/776.aec74e21.chunk.js",
@@ -62,6 +62,6 @@
   },
   "entrypoints": [
     "static/css/main.e82dda6f.css",
-    "static/js/main.7b3ab738.js"
+    "static/js/main.694681d9.js"
   ]
 }
