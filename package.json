@@ -2,7 +2,7 @@
   "name": "datta-able-free-react-admin-template",
   "version": "2.0.0",
   "homepage": "https://danielchinasa.github.io/glide_web/",
-  "private": false,
+  "private": true,
   "license": "MIT",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
