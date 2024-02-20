@@ -8,7 +8,7 @@ import routes, { renderRoutes } from './routes';
 const App = () => {
   return (
     <React.Fragment>
-      <Router basename={process.env.PUBLIC_URL}>{renderRoutes(routes)}</Router>
+      <Router basename="glide_web/">{renderRoutes(routes)}</Router>
     </React.Fragment>
   );
 };
